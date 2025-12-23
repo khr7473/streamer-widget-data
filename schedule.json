@@ -1,9 +1,9 @@
 {
-  "mon": "20:00",
+  "mon": { "time": "21:00" },
   "tue": null,
-  "wed": "21:00",
+  "wed": { "time": "20:30" },
   "thu": null,
-  "fri": "22:00",
+  "fri": { "time": "22:00" },
   "sat": null,
   "sun": null
 }
